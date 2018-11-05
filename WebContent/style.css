@@ -1,0 +1,71 @@
+@charset "ISO-8859-1";
+h1 {
+	color: navy;
+	text-align: center;
+	font-size: 70px;
+	background-color: gray;
+}
+h3 {
+	font-size: 35px;
+	text-align: center;
+}
+.links {
+	width: 100%;
+    text-align: center;
+}
+body {
+	background-color: threedlightshadow;
+}
+.repotext {
+	width: 100%;
+    text-align: center;
+}
+.subtitle {
+	text-align: center;
+	font-size: 14px;
+}
+.title {
+	text-align: center;
+	font-size: 35px;
+}
+.biotext {
+	font-size: 16px;
+	text-indent: 30px;
+}
+.poems {
+	text-align: center;
+	font-size: 16px;
+}
+.author {
+	text-align: center;
+	font-style: italic;
+	font-size: 16px;
+}
+footer {
+	text-align: center;
+	font-size: 12px;
+}
+#about {
+	text-decoration: underline;
+	color: navy;
+}
+#woods {
+	width: 200px;
+	height: 300px;
+}
+#me{
+	width: 100%;
+	justify-content: center;
+	text-align: center;
+}
+#gitlink {
+	width: 50%;
+}
+#portfolio {
+	text-decoration: underline;
+	color: navy;
+}
+#home {
+	text-decoration: underline;
+	color: navy;
+}
